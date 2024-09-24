@@ -14,6 +14,7 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 1. Using fix kawasaki:
 `fix ID group-ID kawasaki Nstep Nparticles seed T`
 
-* Nstep 
+* ID, group-ID could be found in the [fix](https://docs.lammps.org/fix.html) documentation of `LAMMPS`.
+* 
 
 3. Using fix atom/flip:
