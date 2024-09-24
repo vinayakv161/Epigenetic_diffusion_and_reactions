@@ -33,4 +33,4 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 fix        1 all kawasaki 100 100 1 1.0
 fix        2 all atom/flip 100 100 1 1 2 0.2
 
-### Sample file to run
+##### Sample run has been provided in 
