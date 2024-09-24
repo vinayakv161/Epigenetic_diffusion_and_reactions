@@ -1,4 +1,4 @@
-# Epigenetic_diffusion_and_reactions
+# Epigenetic diffusion and reactions
 
 This is the repository for the simulation code of the manuscript: "Polymer Model Integrates Super-Resolution Imaging and Epigenomic Sequencing to Elucidate the Role of Epigenetic Reactions in Shaping 4D Chromatin Organization." We have built two custom fixes for [`LAMMPS`](https://www.lammps.org/) to execute epigenetic reaction function (fix atom/swap) and diffusion of epigenetic marks (fix kawasaki). 
 
