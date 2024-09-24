@@ -30,4 +30,7 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 * `type1, type2, prob`: The transition probability of type1 atom to type2 atoms is `prob`
 
 ### Example
+fix        1 all kawasaki 100 100 1 1.0
+fix        2 all atom/flip 100 100 1 1 2 0.2
 
+### Sample file to run
