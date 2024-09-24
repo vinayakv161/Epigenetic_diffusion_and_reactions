@@ -12,6 +12,8 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 ### Use in input file:
 
 1. Using fix kawasaki:
-`fix ID group-ID kawasaki`
+`fix ID group-ID kawasaki Nstep Nparticles seed T`
+
+* Nstep 
 
 3. Using fix atom/flip:
