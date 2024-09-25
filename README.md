@@ -34,3 +34,5 @@ fix        1 all kawasaki 100 100 1 1.0
 fix        2 all atom/flip 100 100 1 1 2 0.2
 
 ##### Sample run has been provided in the folder sample_simuation
+
+Tested on `LAMMPS stable release 2 Aug 2023`
