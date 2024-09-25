@@ -8,6 +8,7 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 
 1. Put `fix_kawasaki.cpp/fix_kawasaki.h` and `fix_atom_flip.cpp/fix_atom_flip.h` in `src/MC` folder of `LAMMPS`.
 2. Build `LAMMPS` with the `MC` package
+(Time required ~20-30mins)
 
 ### Use in input file:
 
