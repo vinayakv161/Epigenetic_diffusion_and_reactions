@@ -17,7 +17,7 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 
 * `ID,group-ID`: could be found in the [fix](https://docs.lammps.org/fix.html) documentation of `LAMMPS`.
 * `Nstep`: attempt kawasaki every this many steps
-* `Nparticles`: number of group atims to consider for kawasaki
+* `Nparticles`: number of group atoms to consider for kawasaki
 * `seed`: random # seed (positive integer)
 * `T`: Temperature of the kawasaki metropolis criteria
 
@@ -32,6 +32,7 @@ This is the repository for the simulation code of the manuscript: "Polymer Model
 
 ### Example
 fix        1 all kawasaki 100 100 1 1.0
+
 fix        2 all atom/flip 100 100 1 1 2 0.2
 
 ##### Sample run has been provided in the folder sample_simuation
